@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "jujutsu-zone",
+	"version": "${version}",
+	"name": "JuJutsu Zone",
+	"description": "JJZone的核心目标是打造沉浸爽快咒回战斗，以战斗体验感受为核心服务，最大幅度还原咒回战斗规则和设定，令人兴奋且炫酷又极具张力的战斗视听，让玩家在战斗时能够进入“ZONE”状态。",
+	"authors": [
+		"Asignofdeath"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/jujutsu-zone/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.absolutedeliriousdarkness.JuJutsuZone"
+		],
+		"fabric-datagen": [
+			"com.absolutedeliriousdarkness.JuJutsuZoneDataGenerator"
+		]
+	},
+	"mixins": [
+		"jujutsu-zone.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.6",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
