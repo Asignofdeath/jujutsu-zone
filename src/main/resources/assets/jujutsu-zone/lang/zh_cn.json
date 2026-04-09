@@ -1,0 +1,6 @@
+{
+	"category.jujutsu-zone.combat": "战斗潮流",
+	"key.jujutsu-zone.toggle_combat_mode": "切换战斗模式",
+	"message.jujutsu-zone.combat_mode.enabled": "战斗模式已开启",
+	"message.jujutsu-zone.combat_mode.disabled": "战斗模式已关闭"
+}

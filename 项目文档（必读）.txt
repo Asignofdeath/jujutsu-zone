@@ -1,0 +1,4 @@
+项目：Minecraft 1.20.1 Fabric mod——Jujutsu Zone
+中文名：战斗潮流
+英文名：Jujutsu Zone
+类型：漫改自《咒术回战》，战斗向模组

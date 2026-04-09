@@ -1,0 +1,6 @@
+{
+	"category.jujutsu-zone.combat": "JuJutsu Zone ",
+	"key.jujutsu-zone.toggle_combat_mode": "Toggle Combat Mode",
+	"message.jujutsu-zone.combat_mode.enabled": "Combat mode enabled",
+	"message.jujutsu-zone.combat_mode.disabled": "Combat mode disabled"
+}

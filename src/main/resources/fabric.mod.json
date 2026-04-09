@@ -18,6 +18,9 @@
 		"main": [
 			"com.absolutedeliriousdarkness.JuJutsuZone"
 		],
+		"client": [
+			"com.absolutedeliriousdarkness.JuJutsuZoneClient"
+		],
 		"fabric-datagen": [
 			"com.absolutedeliriousdarkness.JuJutsuZoneDataGenerator"
 		]
